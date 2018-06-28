@@ -728,6 +728,7 @@ void dynamic_nv_replace()
 
 	ALOGI("dynamic nv replace sucessfully!\n");
 }
+#endif
 
 #ifdef WCNSS_QMI_OSS
 static void *wcnss_qmi_handle = NULL;
